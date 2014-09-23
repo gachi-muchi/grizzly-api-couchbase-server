@@ -1,0 +1,10 @@
+{
+    "baseUrl": "http://0.0.0.0",
+    "port": 9000,
+    "couchBaseUrls": [
+        "http://10.34.49.64:8091/pools",
+        "http://10.34.48.239:8091/pools"
+    ],
+    "workerCorePool": 64,
+    "workerMaxPool": 64
+}
